@@ -6,5 +6,6 @@ public class gittets {
         System.out.println("hello git222!");
         System.out.println("hello git333!");
         System.out.println("master-fix");
+        System.out.println("hot-fix test");
     }
 }
